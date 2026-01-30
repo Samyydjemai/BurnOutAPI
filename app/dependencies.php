@@ -28,4 +28,3 @@ return function (ContainerBuilder $containerBuilder) {
         },
     ]);
 };
-"TEST commit"
